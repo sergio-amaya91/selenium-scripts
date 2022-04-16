@@ -1,4 +1,4 @@
-# a personal project using selenium to web scrape sites and get info.
+a personal project using selenium and python to web scrape sites and get info.
 currently just one site and two searches.
 roadmap
 
